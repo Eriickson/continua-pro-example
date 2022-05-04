@@ -5,10 +5,7 @@
     "dev": "next dev -p 10000",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "concurrently \"yarn && yarn build && yarn start\"",
-    "export": "rimraf out && rimraf build && yarn build && next export",
-    "clean": "rimraf out"
+    "lint": "next lint"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.7.4",
