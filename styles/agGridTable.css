@@ -1,0 +1,10 @@
+.ag-body-horizontal-scroll {
+  display: none !important;
+}
+
+.ag-root-wrapper {
+  border: none !important;
+}
+.ag-paging-panel.ag-unselectable {
+  border: none !important;
+}

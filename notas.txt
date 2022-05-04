@@ -1,0 +1,3 @@
+El endpoint /mailing/campaigns/21/stats_log retorna un Objeto de arreglo y también un string (Cannot get logs for an incomplete campaign)
+View: http://localhost:10000/campaigns/mailing/21 (Return Objeto de arreglo)
+View: http://localhost:10000/campaigns/mailing/62 (Return String)

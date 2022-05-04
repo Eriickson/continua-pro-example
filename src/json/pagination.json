@@ -1,0 +1,52 @@
+{
+  "data": [],
+  "metadata": {
+    "pagination": {
+      "firstPageUrl": "firstPageUrl",
+      "firstPage": 1,
+      "lastPageUrl": "lastPageUrl",
+      "lastPage": 500,
+      "nextPageUrl": "nextPageUrl",
+      "nextPage": 2,
+      "prevPageUrl": "prevPageUrl",
+      "prevPage": 1,
+      "currentPage": 1,
+      "currentPageUrl": "1",
+      "perPage": 20,
+      "total": 25000,
+      "totalPages": 8500,
+      "links": [
+        {
+          "url": "url_page_number",
+          "isActive": false,
+          "label": 1
+        },
+        {
+          "url": "url_page_number",
+          "isActive": false,
+          "label": 2
+        },
+        {
+          "url": "url_page_number",
+          "isActive": true,
+          "label": 3
+        },
+        {
+          "url": "url_page_number",
+          "isActive": false,
+          "label": 4
+        },
+        {
+          "url": "url_page_number",
+          "isActive": false,
+          "label": 5
+        },
+        {
+          "url": "url_page_number",
+          "isActive": false,
+          "label": 6
+        }
+      ]
+    }
+  }
+}
